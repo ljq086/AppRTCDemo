@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libjingle_peerconnection-1b2ffe51e540bf8e1c0c16af7467b7c4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/libjingle_peerconnection-1b2ffe51e540bf8e1c0c16af7467b7c4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
